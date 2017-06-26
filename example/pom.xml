@@ -7,12 +7,6 @@
 	<version>0.1-SNAPSHOT</version>
 	<name>GitHub Maven Plugin Example</name>
 	<description>Project to demonstrate GitHub Maven plugins</description>
-	<url>https://github.com/kevinsawicki/github-maven-example</url>
-
-	<issueManagement>
-		<url>https://github.com/kevinsawicki/github-maven-example/issues</url>
-		<system>GitHub Issues</system>
-	</issueManagement>
 
 	<licenses>
 		<license>
@@ -24,8 +18,8 @@
 
 	<scm>
 		<url>https://github.com/eddturner/maven-test-jenkins-release</url>
-		<connection>scm:git:ssh://github.com/eddturner/maven-test-jenkins-release.git</connection>
-		<developerConnection>scm:git:ssh@github.com/eddturner/maven-test-jenkins-release.git</developerConnection>
+		<connection>scm:git:git://github.com/eddturner/maven-test-jenkins-release.git</connection>
+		<developerConnection>scm:git:git@github.com/eddturner/maven-test-jenkins-release.git</developerConnection>
 	</scm>
 
 	<properties>
