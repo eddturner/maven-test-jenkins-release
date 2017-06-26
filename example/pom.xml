@@ -24,8 +24,8 @@
 
 	<scm>
 		<url>https://github.com/eddturner/maven-test-jenkins-release</url>
-		<connection>scm:git:git://github.com/eddturner/maven-test-jenkins-release.git</connection>
-		<developerConnection>scm:git:git@github.com/eddturner/maven-test-jenkins-release.git</developerConnection>
+		<connection>scm:git:ssh://github.com/eddturner/maven-test-jenkins-release.git</connection>
+		<developerConnection>scm:git:ssh@github.com/eddturner/maven-test-jenkins-release.git</developerConnection>
 	</scm>
 
 	<properties>
