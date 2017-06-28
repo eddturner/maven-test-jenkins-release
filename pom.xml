@@ -5,7 +5,7 @@
     <artifactId>multi</artifactId>
     <version>1.1-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>multi</name>
+    <name>multi multi</name>
     <modules>
         <module>core</module>
         <module>app</module>
